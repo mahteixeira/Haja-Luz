@@ -1,0 +1,17 @@
+C:\Users\Usuario\Downloads\AppHajaLuz-master\AppHajaLuz\bin\Debug\netstandard2.0\Images\off.jpg
+C:\Users\Usuario\Downloads\AppHajaLuz-master\AppHajaLuz\bin\Debug\netstandard2.0\Images\on.jpg
+C:\Users\Usuario\Downloads\AppHajaLuz-master\AppHajaLuz\bin\Debug\netstandard2.0\AppHajaLuz.deps.json
+C:\Users\Usuario\Downloads\AppHajaLuz-master\AppHajaLuz\bin\Debug\netstandard2.0\AppHajaLuz.dll
+C:\Users\Usuario\Downloads\AppHajaLuz-master\AppHajaLuz\bin\Debug\netstandard2.0\AppHajaLuz.pdb
+C:\Users\Usuario\Downloads\AppHajaLuz-master\AppHajaLuz\obj\Debug\netstandard2.0\AppHajaLuz.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\AppHajaLuz-master\AppHajaLuz\obj\Debug\netstandard2.0\AppHajaLuz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\AppHajaLuz-master\AppHajaLuz\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\Downloads\AppHajaLuz-master\AppHajaLuz\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\Downloads\AppHajaLuz-master\AppHajaLuz\obj\Debug\netstandard2.0\AppHajaLuz.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\AppHajaLuz-master\AppHajaLuz\obj\Debug\netstandard2.0\AppHajaLuz.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\AppHajaLuz-master\AppHajaLuz\obj\Debug\netstandard2.0\AppHajaLuz.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\AppHajaLuz-master\AppHajaLuz\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\Downloads\AppHajaLuz-master\AppHajaLuz\obj\Debug\netstandard2.0\AppHajaLuz.dll
+C:\Users\Usuario\Downloads\AppHajaLuz-master\AppHajaLuz\obj\Debug\netstandard2.0\refint\AppHajaLuz.dll
+C:\Users\Usuario\Downloads\AppHajaLuz-master\AppHajaLuz\obj\Debug\netstandard2.0\AppHajaLuz.pdb
+C:\Users\Usuario\Downloads\AppHajaLuz-master\AppHajaLuz\obj\Debug\netstandard2.0\ref\AppHajaLuz.dll

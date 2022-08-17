@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jd27eAYHgLu6VA7W7QJ6gEFhUd1Q2e2YAvdWe15AjJKPrB6Hf4AwKzToYZurY3Z2zAQyLMb+csFeRFCdo4jFKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Downloads\\AppHajaLuz-master\\AppHajaLuz\\AppHajaLuz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\xam.plugin.battery\\4.0.1\\xam.plugin.battery.4.0.1.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
